@@ -1,4 +1,4 @@
-🗂️ Dosya Sistemi İzleyici (File System Watcher)  
+# 🗂️ Dosya Sistemi İzleyici (File System Watcher)  
 Belirli bir klasörü izleyerek, klasör içinde gerçekleşen dosya/dizin değişikliklerini anlık olarak tespit edip kullanıcıya bildiren modern bir masaüstü uygulaması.
 
 > 💻 Geliştirme Ortamı: Windows 10 + Qt Creator  
@@ -6,7 +6,7 @@ Belirli bir klasörü izleyerek, klasör içinde gerçekleşen dosya/dizin deği
 
 ---
 
-✨ Özellikler
+## ✨ Özellikler
 
 📁 Belirli bir dizindeki dosya ve klasörlerin izlenmesi  
 🔄 Gerçek zamanlı dosya/dizin değişikliği takibi  
@@ -17,7 +17,7 @@ Belirli bir klasörü izleyerek, klasör içinde gerçekleşen dosya/dizin deği
 
 ---
 
-📦 Kullanılan Teknolojiler
+## 📦 Kullanılan Teknolojiler
 
 - 🖥️ **Qt Framework** – GUI ve dosya sistemi izleme (QFileSystemWatcher)  
 - 📝 **C++** – Performanslı sistem seviyesi programlama  
@@ -26,11 +26,12 @@ Belirli bir klasörü izleyerek, klasör içinde gerçekleşen dosya/dizin deği
 
 ---
 
-🛠️ Derleme ve Çalıştırma (Qt Creator)
+## 🛠️ Derleme ve Çalıştırma (Qt Creator)
 
 1. Proje klasörünü Qt Creator ile açın (`.pro` dosyası üzerinden).  
 2. Gerekli Qt sürümünü seçin (örneğin: Qt 5.15).  
 3. "Run" tuşuna basarak uygulamayı başlatın.  
 
-🔧 Uygulama çalıştığında, kullanıcı belirli bir dizini seçerek bu dizin içindeki değişiklikleri (oluşturma, silme, yeniden adlandırma vb.) gerçek zamanlı olarak log ekranında görebilir.
-(Uygulama arayüzü ve işlevi görseli result_image.jpg)
+---
+
+## 🔧 Uygulama çalıştığında, kullanıcı belirli bir dizini seçerek bu dizin içindeki değişiklikleri (oluşturma, silme, yeniden adlandırma vb.) gerçek zamanlı olarak log ekranında görebilir. (Uygulama arayüzü ve işlevi görseli result_image.jpg)
