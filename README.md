@@ -32,6 +32,4 @@ Belirli bir klasörü izleyerek, klasör içinde gerçekleşen dosya/dizin deği
 2. Gerekli Qt sürümünü seçin (örneğin: Qt 5.15).  
 3. "Run" tuşuna basarak uygulamayı başlatın.  
 
----
-
-## 🔧 Uygulama çalıştığında, kullanıcı belirli bir dizini seçerek bu dizin içindeki değişiklikleri (oluşturma, silme, yeniden adlandırma vb.) gerçek zamanlı olarak log ekranında görebilir. (Uygulama arayüzü ve işlevi görseli result_image.jpg)
+🔧 Uygulama çalıştığında, kullanıcı belirli bir dizini seçerek bu dizin içindeki değişiklikleri (oluşturma, silme, yeniden adlandırma vb.) gerçek zamanlı olarak log ekranında görebilir. (Uygulama arayüzü ve işlevi görseli result_image.jpg)
